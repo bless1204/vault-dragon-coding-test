@@ -1,0 +1,5 @@
+// custom authenticator
+
+module.exports = {
+
+};
